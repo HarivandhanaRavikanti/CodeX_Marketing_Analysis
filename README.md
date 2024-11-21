@@ -6,6 +6,8 @@
             Questions in survey are regarding – Age group, gender, taste, frequency of consumption, preferred ingredients, feedback, availability, purchase location etc.
 **Task:**
             As a data analyst, my work is to analyse survey data and provide insights to marketing team, so that they can make data driven decisions to improve their                    product,increase their brand awareness and market share.
+          
+
             
 **Insights Provided:**
 
