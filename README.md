@@ -1,5 +1,5 @@
 # CodeX_Marketing_Analysis
-**Background:** 
+**Introduction:** 
 
             CodeX, a German beverage company that is aiming to make its mark in the Indian market. A few months ago, they launched their energy drink in 10 cities in India. 
             CodeX conducted a survey in those 10 cities and received results from 10K respondents. Survey was done to understand consumer behaviour. 
